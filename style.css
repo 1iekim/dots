@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: rgb(17, 17, 19);
+}
+.content {
+    width: 70%;
+    height: 100vh;
+    background: rgba("fff", .5);
+}
